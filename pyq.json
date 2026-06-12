@@ -1,0 +1,337 @@
+{
+  "papers": [
+    {
+      "title": "Cell Biology",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["btech_biotech"],
+      "course_name": "B.Tech Biotechnology",
+      "semester": 1,
+      "pdf_url": "https://drive.google.com/file/d/19Wt4Ys5abW24_WYFmeMvziM6O-dgC5IG/view?usp=drivesdk"
+    },
+    {
+      "title": "Fundamental of Genetics",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["btech_biotech"],
+      "course_name": "B.Tech Biotechnology",
+      "semester": 1,
+      "pdf_url": "https://drive.google.com/file/d/1zJz8q26iA7Hrpxi7W4nYo0QvVtdYRq5T/view?usp=drivesdk"
+    },
+    {
+      "title": "Basic Botany",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["btech_biotech", "bsc_hons_abm", "btech_food"],
+      "course_name": "B.Tech Biotechnology/Food Technology, Bsc(Hons.) A.B.M",
+      "semester": 1,
+      "pdf_url": "https://drive.google.com/file/d/1sm2sDCTn5VmmOCUQq98dj4SVZT_aN7OH/view?usp=drivesdk"
+    },
+    {
+      "title": "Basic Mathematics",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["btech_biotech", "btech_food", "btech_agri_engg"],
+      "course_name": "B.Tech Biotechnology/Food Technology/Agril. Engineering",
+      "semester": 1,
+      "pdf_url": "https://drive.google.com/file/d/1R1pRTm1-P4REbCjkP-12HbYZfpIeCKeU/view?usp=drivesdk"
+    },
+    {
+      "title": "Molecular Biology",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["btech_biotech"],
+      "course_name": "B.Tech Biotechnology",
+      "semester": 1,
+      "pdf_url": "https://drive.google.com/file/d/1SVxB5OCbVjQskeyt8etYJFmJAVaMPkaD/view?usp=drivesdk"
+    },
+    {
+      "title": "Farming Based Livelihood System",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["bsc_hons_agri", "bsc_hons_abm", "bsc_hons_horti", "btech_agri_engg", "btech_biotech", "btech_food"],
+      "course_name": "B.Tech Biotechnology/Food Technology/Agril. Engineering, Bsc(Hons.) Agri/Horti/A.B.M/Forestry/Community Sci.",
+      "semester": 1,
+      "pdf_url": "https://drive.google.com/file/d/1yGagpX-Pfcr0oMTKuFgEnpGuI0FJ7ItU/view?usp=drivesdk"
+    },
+    {
+      "title": "Communication Skill",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["bsc_hons_agri", "bsc_hons_abm", "bsc_hons_horti", "btech_agri_engg", "btech_biotech", "btech_food"],
+      "course_name": "B.Tech Biotechnology/Food Technology/Agril. Engineering, Bsc(Hons.) Agri/Horti/A.B.M/Forestry/Community Sci.",
+      "semester": 1,
+      "pdf_url": "https://drive.google.com/file/d/1duDXoAMAKnA7J3cJT2C74R35ARDqzcHE/view?usp=drivesdk"
+    },
+    {
+      "title": "Fundamentals of Food Processing",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["btech_food"],
+      "course_name": "B.Tech Food Technology",
+      "semester": 1,
+      "pdf_url": "https://drive.google.com/file/d/1lcFziqgea8jeE84q7lvD7AlCHMdVbosx/view?usp=drivesdk"
+    },
+    {
+      "title": "Food Chemistry-I",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["btech_food"],
+      "course_name": "B.Tech Food Technology",
+      "semester": 1,
+      "pdf_url": "https://drive.google.com/file/d/1-ACDJqgQHOuZOrzw39-PoRz2h6gmJcBQ/view?usp=drivesdk"
+    },
+    {
+      "title": "General Microbiology",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["btech_food"],
+      "course_name": "B.Tech Food Technology",
+      "semester": 1,
+      "pdf_url": "https://drive.google.com/file/d/1be1GbiLbKCj-seyRQeIGe_XakahNDGf7/view?usp=drivesdk"
+    },
+    {
+      "title": "Post Harvest Engineering",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["btech_food"],
+      "course_name": "B.Tech Food Technology",
+      "semester": 1,
+      "pdf_url": "https://drive.google.com/file/d/1POW0pDowvI9WnVPBRUwdd8RpKY2oTG4x/view?usp=drivesdk"
+    },
+    {
+      "title": "Personality Development",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["bsc_hons_agri", "bsc_hons_abm", "bsc_hons_horti", "btech_agri_engg", "btech_biotech", "btech_food"],
+      "course_name": "B.Tech Biotechnology/Food Technology/Agril. Engineering, Bsc(Hons.) Agri/Horti/A.B.M/Forestry/Community Sci.",
+      "semester": 2,
+      "pdf_url": ""
+    },
+    {
+      "title": "Environmental Studies and Disaster Management",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["bsc_hons_agri", "bsc_hons_abm", "bsc_hons_horti", "btech_agri_engg", "btech_biotech", "btech_food"],
+      "course_name": "B.Tech Biotechnology/Food Technology/Agril. Engineering, Bsc(Hons.) Agri/Horti/A.B.M/Forestry/Community Sci.",
+      "semester": 2,
+      "pdf_url": ""
+    },
+    {
+  "title": "Entrepreneurship Development and Business Management",
+  "university": "mpkv",
+  "university_name": "MPKV, Rahuri",
+  "course": ["btech_biotech", "bsc_hons_horti"],
+  "course_name": "B.Tech Biotechnology, Bsc(Hons.) Horticulture",
+  "semester": 2,
+  "pdf_url": ""
+},
+    {
+      "title": "Introduction to Biotechnology",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["btech_biotech"],
+      "course_name": "B.Tech Biotechnology",
+      "semester": 2,
+      "pdf_url": ""
+    },
+    {
+      "title": "Elementary Microbiology",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["btech_biotech"],
+      "course_name": "B.Tech Biotechnology",
+      "semester": 2,
+      "pdf_url": ""
+    },
+    {
+      "title": "Introduction to Plant Breeding",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["btech_biotech"],
+      "course_name": "B.Tech Biotechnology",
+      "semester": 2,
+      "pdf_url": ""
+    },
+    {
+      "title": "Introduction to Major Field Crops",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["bsc_hons_horti"],
+      "course_name": "Bsc(Hons.) Horticulture",
+      "semester": 2,
+      "pdf_url": ""
+    },
+    {
+      "title": "Commercial Production of Spices and Plantation Crops",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["bsc_hons_horti"],
+      "course_name": "Bsc(Hons.) Horticulture",
+      "semester": 2,
+      "pdf_url": ""
+    },
+    {
+      "title": "Plant Propagation and Nursery Management in Vegetables, Flowers and Medicinal Crops",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["bsc_hons_horti"],
+      "course_name": "Bsc(Hons.) Horticulture",
+      "semester": 2,
+      "pdf_url": ""
+    },
+    {
+      "title": "Design and Formulation of Foods",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["btech_food"],
+      "course_name": "B.Tech Food Technology",
+      "semester": 2,
+      "pdf_url": ""
+    },
+    {
+      "title": "Waste and By-products Utilization",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["btech_food"],
+      "course_name": "B.Tech Food Technology",
+      "semester": 2,
+      "pdf_url": ""
+    },
+    {
+      "title": "Engineering Drawing and Graphics",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["btech_food"],
+      "course_name": "B.Tech Food Technology",
+      "semester": 2,
+      "pdf_url": ""
+    },
+    {
+      "title": "Food Thermodynamics",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["btech_food"],
+      "course_name": "B.Tech Food Technology",
+      "semester": 2,
+      "pdf_url": ""
+    },
+    {
+      "title": "Unit Operations in Food Processing",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["btech_food"],
+      "course_name": "B.Tech Food Technology",
+      "semester": 2,
+      "pdf_url": ""
+    },
+    {
+      "title": "Soil Fertility Management",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["bsc_hons_agri"],
+      "course_name": "Bsc(Hons.) Agriculture",
+      "semester": 2,
+      "pdf_url": ""
+    },
+    {
+      "title": "Fundamentals of Entomology",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["bsc_hons_agri"],
+      "course_name": "Bsc(Hons.) Agriculture",
+      "semester": 2,
+      "pdf_url": ""
+    },
+    {
+      "title": "Fundamentals of Plant Pathology",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["bsc_hons_agri"],
+      "course_name": "Bsc(Hons.) Agriculture",
+      "semester": 2,
+      "pdf_url": ""
+    },
+    {
+      "title": "Livestock Production and Management",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["bsc_hons_agri"],
+      "course_name": "Bsc(Hons.) Agriculture",
+      "semester": 2,
+      "pdf_url": ""
+    },
+    {
+      "title": "Farm Management, Production and Resource Economics",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["bsc_hons_abm"],
+      "course_name": "Bsc(Hons.) Agri. Business Management",
+      "semester": 2,
+      "pdf_url": ""
+    },
+    {
+      "title": "Agricultural Finance and Insurance",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["bsc_hons_abm"],
+      "course_name": "Bsc(Hons.) Agri. Business Management",
+      "semester": 2,
+      "pdf_url": ""
+    },
+    {
+      "title": "Marketing of Agricultural Inputs and Outputs",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["bsc_hons_abm"],
+      "course_name": "Bsc(Hons.) Agri. Business Management",
+      "semester": 2,
+      "pdf_url": ""
+    },
+    {
+      "title": "Management of Insect Pests of Crops and Stored Grains",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["bsc_hons_abm"],
+      "course_name": "Bsc(Hons.) Agri. Business Management",
+      "semester": 2,
+      "pdf_url": ""
+    },
+    {
+      "title": "Principles and Practices of Seed Science and Technology",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["bsc_hons_abm"],
+      "course_name": "Bsc(Hons.) Agri. Business Management",
+      "semester": 2,
+      "pdf_url": ""
+    },
+    {
+      "title": "Livestock, Poultry and Fish Production Management",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["bsc_hons_abm"],
+      "course_name": "Bsc(Hons.) Agri. Business Management",
+      "semester": 2,
+      "pdf_url": ""
+    },
+    {
+      "title": "Engineering Drawing",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["btech_agri_engg"],
+      "course_name": "B.Tech Agril. Engineering",
+      "semester": 2,
+      "pdf_url": ""
+    },
+    {
+      "title": "Computer Programming and Data Structures",
+      "university": "mpkv",
+      "university_name": "MPKV, Rahuri",
+      "course": ["btech_agri_engg"],
+      "course_name": "B.Tech Agril. Engineering",
+      "semester": 2,
+      "pdf_url": ""
+    }
+  ]
+    }
