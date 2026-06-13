@@ -2,8 +2,7 @@
   "papers": [
     {
       "title": "Cell Biology",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["btech_biotech"],
       "course_name": "B.Tech Biotechnology",
       "semester": 1,
@@ -11,8 +10,7 @@
     },
     {
       "title": "Fundamental of Genetics",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["btech_biotech"],
       "course_name": "B.Tech Biotechnology",
       "semester": 1,
@@ -20,8 +18,7 @@
     },
     {
       "title": "Basic Botany",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["btech_biotech", "bsc_hons_abm", "btech_food"],
       "course_name": "B.Tech Biotechnology/Food Technology, Bsc(Hons.) A.B.M",
       "semester": 1,
@@ -29,8 +26,7 @@
     },
     {
       "title": "Basic Mathematics",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["btech_biotech", "btech_food", "btech_agri_engg"],
       "course_name": "B.Tech Biotechnology/Food Technology/Agril. Engineering",
       "semester": 1,
@@ -38,8 +34,7 @@
     },
     {
       "title": "Molecular Biology",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["btech_biotech"],
       "course_name": "B.Tech Biotechnology",
       "semester": 1,
@@ -47,8 +42,7 @@
     },
     {
       "title": "Farming Based Livelihood System",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["bsc_hons_agri", "bsc_hons_abm", "bsc_hons_horti", "btech_agri_engg", "btech_biotech", "btech_food"],
       "course_name": "B.Tech Biotechnology/Food Technology/Agril. Engineering, Bsc(Hons.) Agri/Horti/A.B.M/Forestry/Community Sci.",
       "semester": 1,
@@ -56,8 +50,7 @@
     },
     {
       "title": "Communication Skill",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["bsc_hons_agri", "bsc_hons_abm", "bsc_hons_horti", "btech_agri_engg", "btech_biotech", "btech_food"],
       "course_name": "B.Tech Biotechnology/Food Technology/Agril. Engineering, Bsc(Hons.) Agri/Horti/A.B.M/Forestry/Community Sci.",
       "semester": 1,
@@ -65,8 +58,7 @@
     },
     {
       "title": "Fundamentals of Food Processing",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["btech_food"],
       "course_name": "B.Tech Food Technology",
       "semester": 1,
@@ -74,8 +66,7 @@
     },
     {
       "title": "Food Chemistry-I",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["btech_food"],
       "course_name": "B.Tech Food Technology",
       "semester": 1,
@@ -83,8 +74,7 @@
     },
     {
       "title": "General Microbiology",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["btech_food"],
       "course_name": "B.Tech Food Technology",
       "semester": 1,
@@ -92,8 +82,7 @@
     },
     {
       "title": "Post Harvest Engineering",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["btech_food"],
       "course_name": "B.Tech Food Technology",
       "semester": 1,
@@ -101,8 +90,7 @@
     },
     {
       "title": "Personality Development",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["bsc_hons_agri", "bsc_hons_abm", "bsc_hons_horti", "btech_agri_engg", "btech_biotech", "btech_food"],
       "course_name": "B.Tech Biotechnology/Food Technology/Agril. Engineering, Bsc(Hons.) Agri/Horti/A.B.M/Forestry/Community Sci.",
       "semester": 2,
@@ -110,26 +98,23 @@
     },
     {
       "title": "Environmental Studies and Disaster Management",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["bsc_hons_agri", "bsc_hons_abm", "bsc_hons_horti", "btech_agri_engg", "btech_biotech", "btech_food"],
       "course_name": "B.Tech Biotechnology/Food Technology/Agril. Engineering, Bsc(Hons.) Agri/Horti/A.B.M/Forestry/Community Sci.",
       "semester": 2,
       "pdf_url": ""
     },
     {
-  "title": "Entrepreneurship Development and Business Management",
-  "university": "mpkv",
-  "university_name": "MPKV, Rahuri",
-  "course": ["btech_biotech", "bsc_hons_horti"],
-  "course_name": "B.Tech Biotechnology, Bsc(Hons.) Horticulture",
-  "semester": 2,
-  "pdf_url": ""
-},
+      "title": "Entrepreneurship Development and Business Management",
+      "year": "2025-26",
+      "course": ["btech_biotech", "bsc_hons_horti"],
+      "course_name": "B.Tech Biotechnology, Bsc(Hons.) Horticulture",
+      "semester": 2,
+      "pdf_url": ""
+    },
     {
       "title": "Introduction to Biotechnology",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["btech_biotech"],
       "course_name": "B.Tech Biotechnology",
       "semester": 2,
@@ -137,8 +122,7 @@
     },
     {
       "title": "Elementary Microbiology",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["btech_biotech"],
       "course_name": "B.Tech Biotechnology",
       "semester": 2,
@@ -146,8 +130,7 @@
     },
     {
       "title": "Introduction to Plant Breeding",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["btech_biotech"],
       "course_name": "B.Tech Biotechnology",
       "semester": 2,
@@ -155,8 +138,7 @@
     },
     {
       "title": "Introduction to Major Field Crops",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["bsc_hons_horti"],
       "course_name": "Bsc(Hons.) Horticulture",
       "semester": 2,
@@ -164,8 +146,7 @@
     },
     {
       "title": "Commercial Production of Spices and Plantation Crops",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["bsc_hons_horti"],
       "course_name": "Bsc(Hons.) Horticulture",
       "semester": 2,
@@ -173,8 +154,7 @@
     },
     {
       "title": "Plant Propagation and Nursery Management in Vegetables, Flowers and Medicinal Crops",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["bsc_hons_horti"],
       "course_name": "Bsc(Hons.) Horticulture",
       "semester": 2,
@@ -182,8 +162,7 @@
     },
     {
       "title": "Design and Formulation of Foods",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["btech_food"],
       "course_name": "B.Tech Food Technology",
       "semester": 2,
@@ -191,8 +170,7 @@
     },
     {
       "title": "Waste and By-products Utilization",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["btech_food"],
       "course_name": "B.Tech Food Technology",
       "semester": 2,
@@ -200,8 +178,7 @@
     },
     {
       "title": "Engineering Drawing and Graphics",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["btech_food"],
       "course_name": "B.Tech Food Technology",
       "semester": 2,
@@ -209,8 +186,7 @@
     },
     {
       "title": "Food Thermodynamics",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["btech_food"],
       "course_name": "B.Tech Food Technology",
       "semester": 2,
@@ -218,8 +194,7 @@
     },
     {
       "title": "Unit Operations in Food Processing",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["btech_food"],
       "course_name": "B.Tech Food Technology",
       "semester": 2,
@@ -227,8 +202,7 @@
     },
     {
       "title": "Soil Fertility Management",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["bsc_hons_agri"],
       "course_name": "Bsc(Hons.) Agriculture",
       "semester": 2,
@@ -236,8 +210,7 @@
     },
     {
       "title": "Fundamentals of Entomology",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["bsc_hons_agri"],
       "course_name": "Bsc(Hons.) Agriculture",
       "semester": 2,
@@ -245,8 +218,7 @@
     },
     {
       "title": "Fundamentals of Plant Pathology",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["bsc_hons_agri"],
       "course_name": "Bsc(Hons.) Agriculture",
       "semester": 2,
@@ -254,8 +226,7 @@
     },
     {
       "title": "Livestock Production and Management",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["bsc_hons_agri"],
       "course_name": "Bsc(Hons.) Agriculture",
       "semester": 2,
@@ -263,8 +234,7 @@
     },
     {
       "title": "Farm Management, Production and Resource Economics",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["bsc_hons_abm"],
       "course_name": "Bsc(Hons.) Agri. Business Management",
       "semester": 2,
@@ -272,8 +242,7 @@
     },
     {
       "title": "Agricultural Finance and Insurance",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["bsc_hons_abm"],
       "course_name": "Bsc(Hons.) Agri. Business Management",
       "semester": 2,
@@ -281,8 +250,7 @@
     },
     {
       "title": "Marketing of Agricultural Inputs and Outputs",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["bsc_hons_abm"],
       "course_name": "Bsc(Hons.) Agri. Business Management",
       "semester": 2,
@@ -290,8 +258,7 @@
     },
     {
       "title": "Management of Insect Pests of Crops and Stored Grains",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["bsc_hons_abm"],
       "course_name": "Bsc(Hons.) Agri. Business Management",
       "semester": 2,
@@ -299,8 +266,7 @@
     },
     {
       "title": "Principles and Practices of Seed Science and Technology",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["bsc_hons_abm"],
       "course_name": "Bsc(Hons.) Agri. Business Management",
       "semester": 2,
@@ -308,8 +274,7 @@
     },
     {
       "title": "Livestock, Poultry and Fish Production Management",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["bsc_hons_abm"],
       "course_name": "Bsc(Hons.) Agri. Business Management",
       "semester": 2,
@@ -317,8 +282,7 @@
     },
     {
       "title": "Engineering Drawing",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["btech_agri_engg"],
       "course_name": "B.Tech Agril. Engineering",
       "semester": 2,
@@ -326,12 +290,11 @@
     },
     {
       "title": "Computer Programming and Data Structures",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
+      "year": "2025-26",
       "course": ["btech_agri_engg"],
       "course_name": "B.Tech Agril. Engineering",
       "semester": 2,
       "pdf_url": ""
     }
   ]
-    }
+}
