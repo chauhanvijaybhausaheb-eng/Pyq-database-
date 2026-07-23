@@ -1,335 +1,650 @@
-{
-  "papers": [
-    {
-      "title": "Cell Biology",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
-      "course": ["btech_biotech"],
-      "course_name": "B.Tech Biotechnology",
-      "semester": 1,
-      "pdf_url": "https://drive.google.com/file/d/19Wt4Ys5abW24_WYFmeMvziM6O-dgC5IG/view?usp=drivesdk"
-    },
-    {
-      "title": "Fundamental of Genetics",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
-      "course": ["btech_biotech"],
-      "course_name": "B.Tech Biotechnology",
-      "semester": 1,
-      "pdf_url": "https://drive.google.com/file/d/1zJz8q26iA7Hrpxi7W4nYo0QvVtdYRq5T/view?usp=drivesdk"
-    },
-    {
-      "title": "Basic Botany",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
-      "course": ["btech_biotech", "bsc_hons_abm", "btech_food"],
-      "course_name": "B.Tech Biotechnology/Food Technology, Bsc(Hons.) A.B.M",
-      "semester": 1,
-      "pdf_url": "https://drive.google.com/file/d/1sm2sDCTn5VmmOCUQq98dj4SVZT_aN7OH/view?usp=drivesdk"
-    },
-    {
-      "title": "Basic Mathematics",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
-      "course": ["btech_biotech", "btech_food", "btech_agri_engg"],
-      "course_name": "B.Tech Biotechnology/Food Technology/Agril. Engineering",
-      "semester": 1,
-      "pdf_url": "https://drive.google.com/file/d/1R1pRTm1-P4REbCjkP-12HbYZfpIeCKeU/view?usp=drivesdk"
-    },
-    {
-      "title": "Molecular Biology",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
-      "course": ["btech_biotech"],
-      "course_name": "B.Tech Biotechnology",
-      "semester": 1,
-      "pdf_url": "https://drive.google.com/file/d/1SVxB5OCbVjQskeyt8etYJFmJAVaMPkaD/view?usp=drivesdk"
-    },
-    {
-      "title": "Farming Based Livelihood System",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
-      "course": ["bsc_hons_agri", "bsc_hons_abm", "bsc_hons_horti", "btech_agri_engg", "btech_biotech", "btech_food"],
-      "course_name": "B.Tech Biotechnology/Food Technology/Agril. Engineering, Bsc(Hons.) Agri/Horti/A.B.M/Forestry/Community Sci.",
-      "semester": 1,
-      "pdf_url": "https://drive.google.com/file/d/1yGagpX-Pfcr0oMTKuFgEnpGuI0FJ7ItU/view?usp=drivesdk"
-    },
-    {
-      "title": "Communication Skill",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
-      "course": ["bsc_hons_agri", "bsc_hons_abm", "bsc_hons_horti", "btech_agri_engg", "btech_biotech", "btech_food"],
-      "course_name": "B.Tech Biotechnology/Food Technology/Agril. Engineering, Bsc(Hons.) Agri/Horti/A.B.M/Forestry/Community Sci.",
-      "semester": 1,
-      "pdf_url": "https://drive.google.com/file/d/1duDXoAMAKnA7J3cJT2C74R35ARDqzcHE/view?usp=drivesdk"
-    },
-    {
-      "title": "Fundamentals of Food Processing",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
-      "course": ["btech_food"],
-      "course_name": "B.Tech Food Technology",
-      "semester": 1,
-      "pdf_url": "https://drive.google.com/file/d/1lcFziqgea8jeE84q7lvD7AlCHMdVbosx/view?usp=drivesdk"
-    },
-    {
-      "title": "Food Chemistry-I",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
-      "course": ["btech_food"],
-      "course_name": "B.Tech Food Technology",
-      "semester": 1,
-      "pdf_url": "https://drive.google.com/file/d/1-ACDJqgQHOuZOrzw39-PoRz2h6gmJcBQ/view?usp=drivesdk"
-    },
-    {
-      "title": "General Microbiology",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
-      "course": ["btech_food"],
-      "course_name": "B.Tech Food Technology",
-      "semester": 1,
-      "pdf_url": "https://drive.google.com/file/d/1be1GbiLbKCj-seyRQeIGe_XakahNDGf7/view?usp=drivesdk"
-    },
-    {
-      "title": "Post Harvest Engineering",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
-      "course": ["btech_food"],
-      "course_name": "B.Tech Food Technology",
-      "semester": 1,
-      "pdf_url": "https://drive.google.com/file/d/1POW0pDowvI9WnVPBRUwdd8RpKY2oTG4x/view?usp=drivesdk"
-    }
- ,
-    {
-      "title": "Personality Development",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
-      "course": ["btech_biotech"],
-      "course_name": "B.Tech Biotechnology",
-      "semester": 2,
-      "pdf_url": ""
-    },
-    {
-      "title": "Entrepreneurship Development and Business Management",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
-      "course": ["btech_biotech"],
-      "course_name": "B.Tech Biotechnology",
-      "semester": 2,
-      "pdf_url": ""
-    },
-    {
-      "title": "Environmental Studies and Disaster Management",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
-      "course": ["btech_biotech"],
-      "course_name": "B.Tech Biotechnology",
-      "semester": 2,
-      "pdf_url": ""
-    },
-    {
-      "title": "Introduction to Biotechnology",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
-      "course": ["btech_biotech"],
-      "course_name": "B.Tech Biotechnology",
-      "semester": 2,
-      "pdf_url": ""
-    },
-    {
-      "title": "Elementary Microbiology",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
-      "course": ["btech_biotech"],
-      "course_name": "B.Tech Biotechnology",
-      "semester": 2,
-      "pdf_url": ""
-    },
-    {
-      "title": "Introduction to Plant Breeding",
-      "university": "mpkv",
-      "university_name": "MPKV, Rahuri",
-      "course": ["btech_biotech"],
-      "course_name": "B.Tech Biotechnology",
-      "semester": 2,
-      "pdf_url": ""
-    }, {
-   "title": "Introduction to Major Field Crops",
-   "university": "mpkv",
-   "university_name": "MPKV, Rahuri",
-   "course": ["bsc_hons_horti"],
-   "course_name": "Bsc(Hons.) Horticulture",
-   "semester": 2,
-   "pdf_url": ""
- },
- {
-   "title": "Commercial Production of Spices and Plantation Crops",
-   "university": "mpkv",
-   "university_name": "MPKV, Rahuri",
-   "course": ["bsc_hons_horti"],
-   "course_name": "Bsc(Hons.) Horticulture",
-   "semester": 2,
-   "pdf_url": ""
- },
- {
-   "title": "Plant Propagation and Nursery Management in Vegetables, Flowers and Medicinal Crops",
-   "university": "mpkv",
-   "university_name": "MPKV, Rahuri",
-   "course": ["bsc_hons_horti"],
-   "course_name": "Bsc(Hons.) Horticulture",
-   "semester": 2,
-   "pdf_url": ""
- }, {
-   "title": "Design and Formulation of Foods",
-   "university": "mpkv",
-   "university_name": "MPKV, Rahuri",
-   "course": ["btech_food"],
-   "course_name": "B.Tech Food Technology",
-   "semester": 2,
-   "pdf_url": ""
- },
- {
-   "title": "Waste and By-products Utilization",
-   "university": "mpkv",
-   "university_name": "MPKV, Rahuri",
-   "course": ["btech_food"],
-   "course_name": "B.Tech Food Technology",
-   "semester": 2,
-   "pdf_url": ""
- },
- {
-   "title": "Engineering Drawing and Graphics",
-   "university": "mpkv",
-   "university_name": "MPKV, Rahuri",
-   "course": ["btech_food"],
-   "course_name": "B.Tech Food Technology",
-   "semester": 2,
-   "pdf_url": ""
- },
- {
-   "title": "Food Thermodynamics",
-   "university": "mpkv",
-   "university_name": "MPKV, Rahuri",
-   "course": ["btech_food"],
-   "course_name": "B.Tech Food Technology",
-   "semester": 2,
-   "pdf_url": ""
- },
- {
-   "title": "Unit Operations in Food Processing",
-   "university": "mpkv",
-   "university_name": "MPKV, Rahuri",
-   "course": ["btech_food"],
-   "course_name": "B.Tech Food Technology",
-   "semester": 2,
-   "pdf_url": ""
- },   {
-     "title": "Soil Fertility Management",
-     "university": "mpkv",
-     "university_name": "MPKV, Rahuri",
-     "course": ["bsc_hons_agri"],
-     "course_name": "Bsc(Hons.) Agriculture",
-     "semester": 2,
-     "pdf_url": ""
-   },
-   {
-     "title": "Fundamentals of Entomology",
-     "university": "mpkv",
-     "university_name": "MPKV, Rahuri",
-     "course": ["bsc_hons_agri"],
-     "course_name": "Bsc(Hons.) Agriculture",
-     "semester": 2,
-     "pdf_url": ""
-   },
-   {
-     "title": "Fundamentals of Plant Pathology",
-     "university": "mpkv",
-     "university_name": "MPKV, Rahuri",
-     "course": ["bsc_hons_agri"],
-     "course_name": "Bsc(Hons.) Agriculture",
-     "semester": 2,
-     "pdf_url": ""
-   },
-   {
-     "title": "Livestock Production and Management",
-     "university": "mpkv",
-     "university_name": "MPKV, Rahuri",
-     "course": ["bsc_hons_agri"],
-     "course_name": "Bsc(Hons.) Agriculture",
-     "semester": 2,
-     "pdf_url": ""
-   },
-      {
-     "title": "Farm Management, Production and Resource Economics",
-     "university": "mpkv",
-     "university_name": "MPKV, Rahuri",
-     "course": ["bsc_hons_abm"],
-     "course_name": "Bsc(Hons.) Agri. Business Management",
-     "semester": 2,
-     "pdf_url": ""
-   },
-   {
-     "title": "Agricultural Finance and Insurance",
-     "university": "mpkv",
-     "university_name": "MPKV, Rahuri",
-     "course": ["bsc_hons_abm"],
-     "course_name": "Bsc(Hons.) Agri. Business Management",
-     "semester": 2,
-     "pdf_url": ""
-   },
-   {
-     "title": "Marketing of Agricultural Inputs and Outputs",
-     "university": "mpkv",
-     "university_name": "MPKV, Rahuri",
-     "course": ["bsc_hons_abm"],
-     "course_name": "Bsc(Hons.) Agri. Business Management",
-     "semester": 2,
-     "pdf_url": ""
-   },
-   {
-     "title": "Management of Insect Pests of Crops and Stored Grains",
-     "university": "mpkv",
-     "university_name": "MPKV, Rahuri",
-     "course": ["bsc_hons_abm"],
-     "course_name": "Bsc(Hons.) Agri. Business Management",
-     "semester": 2,
-     "pdf_url": ""
-   },
-   {
-     "title": "Principles and Practices of Seed Science and Technology",
-     "university": "mpkv",
-     "university_name": "MPKV, Rahuri",
-     "course": ["bsc_hons_abm"],
-     "course_name": "Bsc(Hons.) Agri. Business Management",
-     "semester": 2,
-     "pdf_url": ""
-   },
-   {
-     "title": "Livestock, Poultry and Fish Production Management",
-     "university": "mpkv",
-     "university_name": "MPKV, Rahuri",
-     "course": ["bsc_hons_abm"],
-     "course_name": "Bsc(Hons.) Agri. Business Management",
-     "semester": 2,
-     "pdf_url": ""
-   },
-     {
-    "title": "Engineering Drawing",
-    "university": "mpkv",
-    "university_name": "MPKV, Rahuri",
-    "course": ["btech_agri_engg"],
-    "course_name": "B.Tech Agril. Engineering",
-    "semester": 2,
-    "pdf_url": ""
-  },
-  {
-    "title": "Computer Programming and Data Structures",
-    "university": "mpkv",
-    "university_name": "MPKV, Rahuri",
-    "course": ["btech_agri_engg"],
-    "course_name": "B.Tech Agril. Engineering",
-    "semester": 2,
-    "pdf_url": ""
-  }
-  ]
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AgriDocs — Find Your Success</title>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&family=Syne:wght@700;800&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+
+:root{
+  --p:#7c3aed;--p2:#6d28d9;--p3:#4c1d95;
+  --p-light:#ede9fe;--p-mid:#ddd6fe;
+  --bg:#f9f7ff;--bg2:#f3f0fd;
+  --border:rgba(124,58,237,0.14);--border2:rgba(124,58,237,0.28);
+  --text:#1e1b4b;--text2:#4c4876;--text3:#8b85b0;
+  --shadow:rgba(124,58,237,0.09);
+  --radius:18px;--radius-sm:10px;
 }
+
+html{scroll-behavior:smooth}
+body{
+  font-family:'Plus Jakarta Sans',sans-serif;
+  background:var(--bg);color:var(--text);
+  min-height:100vh;overflow-x:hidden;
+  -webkit-font-smoothing:antialiased;
+}
+
+.hero-blob,.agp-card,.hero-stat,.dl-btn,
+.card-top-bar,.btn{will-change:transform}
+
+nav#agridocs-nav{
+  position:relative;top:auto;left:auto;right:auto;z-index:10;
+  display:flex;justify-content:center;padding:0 24px;
+  background:rgba(249,247,255,0.97);
+  border-bottom:1px solid var(--border);
+  box-shadow:0 2px 20px var(--shadow);
+}
+.nav-inner{
+  max-width:1200px;width:100%;height:62px;
+  display:flex;align-items:center;justify-content:space-between;
+}
+.nav-logo{
+  font-family:'Syne',sans-serif;font-size:1.28rem;font-weight:800;
+  background:linear-gradient(135deg,var(--p3),var(--p),#a78bfa);
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
+  letter-spacing:-0.5px;
+}
+.nav-badge{
+  font-size:0.67rem;font-weight:700;
+  background:var(--p-light);border:1px solid var(--border2);color:var(--p2);
+  padding:4px 12px;border-radius:20px;letter-spacing:0.5px;text-transform:uppercase;
+}
+
+.hero{
+  position:relative;min-height:90vh;
+  display:flex;flex-direction:column;align-items:center;justify-content:center;
+  text-align:center;padding:80px 24px 80px;overflow:hidden;
+  background:linear-gradient(160deg,#faf8ff 0%,#f0ebff 50%,#e8e1ff 100%);
+}
+.hero-blob{
+  position:absolute;border-radius:50%;pointer-events:none;
+  filter:blur(64px);will-change:transform;
+}
+.hero-blob-1{
+  width:560px;height:560px;
+  background:radial-gradient(circle,rgba(167,139,250,0.22),transparent 65%);
+  top:-130px;left:50%;margin-left:-280px;
+  animation:bfloat 9s ease-in-out infinite alternate;
+}
+.hero-blob-2{
+  width:320px;height:320px;
+  background:radial-gradient(circle,rgba(124,58,237,0.1),transparent 65%);
+  bottom:0;right:8%;
+  animation:bfloat 7s ease-in-out infinite alternate-reverse;
+}
+.hero-blob-3{
+  width:220px;height:220px;
+  background:radial-gradient(circle,rgba(196,181,253,0.16),transparent 65%);
+  bottom:18%;left:5%;
+  animation:bfloat 11s ease-in-out infinite alternate;
+}
+@keyframes bfloat{
+  from{transform:translateY(0) scale(1)}
+  to{transform:translateY(-22px) scale(1.03)}
+}
+
+.hero-eyebrow{
+  display:inline-flex;align-items:center;gap:8px;
+  font-size:0.71rem;font-weight:700;color:var(--p);
+  text-transform:uppercase;letter-spacing:2px;
+  background:white;border:1px solid var(--border2);
+  padding:6px 16px;border-radius:30px;margin-bottom:26px;
+  box-shadow:0 2px 10px var(--shadow);
+  animation:fup 0.5s ease both;
+}
+.eyebrow-dot{
+  width:6px;height:6px;background:var(--p);border-radius:50%;
+  animation:pdot 2.2s ease-in-out infinite;
+}
+@keyframes pdot{0%,100%{opacity:1;transform:scale(1)}50%{opacity:0.3;transform:scale(0.6)}}
+
+.hero h1{
+  font-family:'Syne',sans-serif;
+  font-size:clamp(2.6rem,6.5vw,5rem);
+  font-weight:800;line-height:1.06;letter-spacing:-2px;
+  color:var(--text);margin-bottom:22px;
+  animation:fup 0.5s 0.08s ease both;
+}
+.hero h1 .grad{
+  background:linear-gradient(135deg,var(--p3),var(--p),#a78bfa);
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
+}
+.hero-sub{
+  font-size:1.02rem;color:var(--text2);max-width:520px;
+  line-height:1.72;margin-bottom:48px;
+  animation:fup 0.5s 0.15s ease both;
+}
+
+.hero-stats{
+  display:flex;gap:16px;justify-content:center;
+  flex-wrap:wrap;margin-bottom:56px;
+  animation:fup 0.5s 0.22s ease both;
+}
+.hero-stat{
+  background:white;border:1px solid var(--border);
+  border-radius:15px;padding:14px 24px;text-align:center;
+  box-shadow:0 3px 14px var(--shadow);
+}
+.hero-stat-num{
+  font-family:'Syne',sans-serif;font-size:1.8rem;font-weight:800;
+  background:linear-gradient(135deg,var(--p3),var(--p));
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
+  line-height:1;display:block;
+}
+.hero-stat-label{
+  font-size:0.7rem;color:var(--text3);
+  text-transform:uppercase;letter-spacing:1px;font-weight:600;margin-top:4px;
+}
+
+.hero-scroll{
+  display:flex;flex-direction:column;align-items:center;gap:8px;
+  color:var(--text3);font-size:0.7rem;letter-spacing:1.5px;
+  text-transform:uppercase;cursor:pointer;
+  animation:fup 0.5s 0.3s ease both;
+  transition:color 0.2s;
+}
+.hero-scroll:hover{color:var(--p)}
+.scroll-line{
+  width:1px;height:38px;
+  background:linear-gradient(to bottom,var(--p),transparent);
+  animation:sbreathe 2.2s ease-in-out infinite;
+}
+@keyframes sbreathe{0%,100%{opacity:0.3}50%{opacity:1}}
+@keyframes fup{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+
+#agridocs-filter-section{
+  position:relative;z-index:10;
+  background:var(--bg);
+  padding:40px 24px 0;
+}
+.filter-wrap{max-width:1100px;margin:0 auto}
+.filter-lbl{
+  font-size:0.67rem;font-weight:700;color:var(--text3);
+  text-transform:uppercase;letter-spacing:2px;
+  margin-bottom:12px;padding-left:2px;
+}
+.filter-card{
+  background:white;border:1px solid var(--border);
+  border-radius:20px;padding:22px 24px;
+  box-shadow:0 6px 28px var(--shadow);
+  display:grid;
+  grid-template-columns:2fr repeat(3,1fr) auto auto;
+  gap:12px;align-items:end;
+}
+.fgroup{display:flex;flex-direction:column;gap:6px}
+.fgroup label{
+  font-size:0.65rem;font-weight:700;color:var(--text3);
+  text-transform:uppercase;letter-spacing:1.5px;
+}
+.fgroup input,.fgroup select{
+  background:var(--bg);border:1.5px solid var(--border);
+  border-radius:var(--radius-sm);
+  padding:10px 13px;color:var(--text);
+  font-family:inherit;font-size:0.87rem;
+  outline:none;
+  transition:border-color 0.18s,box-shadow 0.18s;
+  appearance:none;-webkit-appearance:none;
+}
+.fgroup select{
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%238b85b0' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+  background-repeat:no-repeat;background-position:right 12px center;
+  background-color:var(--bg);padding-right:34px;cursor:pointer;
+}
+.fgroup select option{background:#fff;color:var(--text)}
+.fgroup input:focus,.fgroup select:focus{
+  border-color:var(--p);box-shadow:0 0 0 3px rgba(124,58,237,0.1);
+}
+.fgroup input::placeholder{color:var(--text3)}
+
+.btn{
+  padding:10px 17px;border:none;border-radius:var(--radius-sm);
+  font-weight:700;font-family:inherit;font-size:0.85rem;
+  cursor:pointer;white-space:nowrap;
+  transition:transform 0.12s,box-shadow 0.16s;
+  touch-action:manipulation;
+}
+.btn:active{transform:scale(0.95)!important}
+.btn-apply{
+  background:linear-gradient(135deg,var(--p),var(--p2));
+  color:#fff;box-shadow:0 3px 14px rgba(124,58,237,0.32);
+}
+.btn-apply:hover{box-shadow:0 5px 20px rgba(124,58,237,0.45);transform:translateY(-1px)}
+.btn-reset{
+  background:var(--bg2);color:var(--text2);
+  border:1.5px solid var(--border);
+}
+.btn-reset:hover{background:var(--p-mid);color:var(--p2)}
+
+.results-bar{
+  max-width:1200px;margin:0 auto;
+  padding:20px 24px 14px;
+  display:flex;align-items:center;justify-content:space-between;
+}
+.results-count{font-size:0.82rem;color:var(--text3)}
+.results-count span{color:var(--p);font-weight:700}
+.db-stats{display:flex;gap:12px}
+.db-stat-pill{
+  font-size:0.7rem;font-weight:700;
+  background:var(--p-light);color:var(--p2);
+  padding:4px 11px;border-radius:20px;border:1px solid var(--border);
+}
+
+.agp-grid{
+  max-width:1200px;margin:0 auto;
+  padding:0 24px 90px;
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(300px,1fr));
+  gap:18px;
+  contain:layout;
+}
+
+.agp-card{
+  background:white;border:1.5px solid var(--border);
+  border-radius:var(--radius);padding:20px;
+  display:flex;flex-direction:column;min-height:178px;
+  position:relative;overflow:hidden;cursor:default;
+  opacity:0;transform:translateY(20px);
+  transition:transform 0.28s cubic-bezier(.22,.68,0,1.15),
+             box-shadow 0.24s ease,
+             border-color 0.24s ease,
+             opacity 0.32s ease;
+  contain:layout style;
+}
+.agp-card.cv{opacity:1;transform:translateY(0)}
+.agp-card:hover{
+  transform:translateY(-4px);
+  box-shadow:0 14px 36px rgba(124,58,237,0.13),0 0 0 1.5px rgba(124,58,237,0.25);
+  border-color:rgba(124,58,237,0.25);
+}
+.agp-card::after{
+  content:'';position:absolute;inset:0;border-radius:inherit;
+  background:linear-gradient(135deg,rgba(124,58,237,0.035),transparent 55%);
+  opacity:0;pointer-events:none;
+  transition:opacity 0.24s;
+}
+.agp-card:hover::after{opacity:1}
+
+.ripple{
+  position:absolute;border-radius:50%;
+  background:rgba(124,58,237,0.1);
+  transform:scale(0);pointer-events:none;
+  animation:rout 0.5s ease-out forwards;
+}
+@keyframes rout{to{transform:scale(4);opacity:0}}
+
+.card-top-bar{
+  width:34px;height:3px;
+  background:linear-gradient(90deg,var(--p3),var(--p),#a78bfa);
+  border-radius:2px;margin-bottom:13px;
+  transition:width 0.25s ease;
+}
+.agp-card:hover .card-top-bar{width:52px}
+
+.agp-card h3{
+  font-size:1rem;font-weight:700;color:var(--text);
+  line-height:1.42;margin-bottom:9px;position:relative;z-index:1;
+}
+.agp-card-info{
+  font-size:0.79rem;color:var(--text3);margin-bottom:3px;
+  display:flex;align-items:center;gap:6px;position:relative;z-index:1;
+}
+.agp-card-info::before{
+  content:'';width:4px;height:4px;background:var(--p);
+  border-radius:50%;flex-shrink:0;opacity:0.45;
+}
+.agp-footer{
+  margin-top:auto;padding-top:13px;
+  display:flex;justify-content:space-between;align-items:center;
+  border-top:1px solid var(--p-light);position:relative;z-index:1;
+}
+.agp-footer-left{display:flex;gap:6px;align-items:center;flex-wrap:wrap;}
+.sem-badge{
+  font-size:0.69rem;font-weight:700;
+  background:var(--p-light);border:1px solid var(--border2);color:var(--p2);
+  padding:4px 10px;border-radius:20px;
+}
+.year-badge{
+  font-size:0.69rem;font-weight:700;
+  background:#fdf4ff;border:1px solid rgba(168,85,247,0.3);color:#7e22ce;
+  padding:4px 10px;border-radius:20px;
+  display:inline-flex;align-items:center;gap:4px;
+}
+.year-dot{width:5px;height:5px;background:#a855f7;border-radius:50%;opacity:0.7;}
+
+.dl-btn{
+  font-size:0.79rem;font-weight:700;color:var(--p);
+  text-decoration:none;display:inline-flex;align-items:center;gap:5px;
+  background:var(--p-light);border:1px solid var(--border2);
+  padding:5px 12px;border-radius:20px;
+  transition:transform 0.14s,box-shadow 0.14s,background 0.16s,color 0.16s;
+  touch-action:manipulation;
+}
+.dl-btn:hover{
+  background:var(--p);color:white;
+  box-shadow:0 4px 14px rgba(124,58,237,0.3);
+  transform:translateY(-1px);
+}
+.dl-btn:active{transform:scale(0.94)}
+
+.coming-soon{
+  display:inline-flex;align-items:center;gap:5px;
+  font-size:0.7rem;font-weight:700;color:var(--text3);
+  background:#f3f0fd;border:1px dashed #c4b5fd;
+  padding:4px 10px;border-radius:20px;
+  animation:cpulse 3s ease-in-out infinite;
+}
+.cs-dot{
+  width:5px;height:5px;background:#a78bfa;border-radius:50%;
+  animation:pdot 3s ease-in-out infinite;
+}
+@keyframes cpulse{0%,100%{border-color:#c4b5fd}50%{border-color:var(--p)}}
+
+.empty-state{
+  grid-column:1/-1;text-align:center;
+  padding:70px 20px;color:var(--text3);
+}
+.empty-icon{font-size:2.8rem;margin-bottom:14px;opacity:0.3}
+.empty-state p{font-size:0.9rem}
+
+.site-footer{
+  text-align:center;padding:32px 24px;
+  border-top:1px solid var(--border);
+  color:var(--text3);font-size:0.77rem;background:white;
+}
+
+@media(max-width:900px){
+  .filter-card{grid-template-columns:1fr 1fr}
+  .fgroup:first-child{grid-column:1/-1}
+}
+@media(max-width:560px){
+  .filter-card{grid-template-columns:1fr}
+  .hero h1{letter-spacing:-1px}
+  .hero-stats{gap:10px}
+  .hero-stat{padding:12px 16px}
+  .db-stats{display:none}
+}
+@media(prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation:none!important;transition:none!important}
+  .agp-card{opacity:1;transform:none}
+}
+</style>
+</head>
+<body>
+
+<nav id="agridocs-nav">
+  <div class="nav-inner">
+    <div class="nav-logo">🌿 AgriDocs</div>
+    <div class="nav-badge">An HB Initiative</div>
+  </div>
+</nav>
+
+<section class="hero">
+  <div class="hero-blob hero-blob-1"></div>
+  <div class="hero-blob hero-blob-2"></div>
+  <div class="hero-blob hero-blob-3"></div>
+  <div class="hero-eyebrow">
+    <span class="eyebrow-dot"></span>Previous Year Questions
+  </div>
+  <h1>Find Your<br><span class="grad">Success</span></h1>
+  <p class="hero-sub">The ultimate repository of Previous Year Question Papers for Agricultural students across Maharashtra. Filter by branch, semester, and year — download in seconds.</p>
+  <div class="hero-stats">
+    <div class="hero-stat">
+      <span class="hero-stat-num" id="stat-papers">—</span>
+      <div class="hero-stat-label">Total Papers</div>
+    </div>
+    <div class="hero-stat">
+      <span class="hero-stat-num" id="stat-available">—</span>
+      <div class="hero-stat-label">Available Now</div>
+    </div>
+    <div class="hero-stat">
+      <span class="hero-stat-num" id="stat-branches">—</span>
+      <div class="hero-stat-label">Branches</div>
+    </div>
+    <div class="hero-stat">
+      <span class="hero-stat-num" id="stat-semesters">—</span>
+      <div class="hero-stat-label">Semesters</div>
+    </div>
+  </div>
+  <div class="hero-scroll" onclick="document.getElementById('agridocs-filter-section').scrollIntoView({behavior:'smooth'})">
+    <div class="scroll-line"></div>
+    <span>Browse Papers</span>
+  </div>
+</section>
+
+<section id="agridocs-filter-section">
+  <div class="filter-wrap">
+    <div class="filter-lbl">🔍 Filter Papers</div>
+    <div class="filter-card">
+      <div class="fgroup">
+        <label>Search by title</label>
+        <input type="text" id="agp-search" placeholder="e.g. Agronomy, Genetics, Botany…">
+      </div>
+      <div class="fgroup">
+        <label>Exam Year</label>
+        <select id="agp-year">
+          <option value="">All Years</option>
+        </select>
+      </div>
+      <div class="fgroup">
+        <label>Branch</label>
+        <select id="agp-course">
+          <option value="">All Branches</option>
+          <option value="bsc_hons_agri">B.Sc (Hons) Agriculture</option>
+          <option value="bsc_hons_abm">B.Sc (Hons) ABM</option>
+          <option value="bsc_hons_horti">B.Sc (Hons) Horticulture</option>
+          <option value="btech_agri_engg">B.Tech Agril. Engineering</option>
+          <option value="btech_biotech">B.Tech Biotechnology</option>
+          <option value="btech_food">B.Tech Food Technology</option>
+        </select>
+      </div>
+      <div class="fgroup">
+        <label>Semester</label>
+        <select id="agp-semester">
+          <option value="">All Semesters</option>
+          <option value="1">Semester 1</option>
+          <option value="2">Semester 2</option>
+          <option value="3">Semester 3</option>
+          <option value="4">Semester 4</option>
+          <option value="5">Semester 5</option>
+          <option value="6">Semester 6</option>
+          <option value="7">Semester 7</option>
+          <option value="8">Semester 8</option>
+        </select>
+      </div>
+      <button class="btn btn-reset" onclick="agpReset()">↺ Reset</button>
+      <button class="btn btn-apply" onclick="agpApply()">Apply →</button>
+    </div>
+  </div>
+</section>
+
+<div class="results-bar">
+  <div class="results-count">Showing <span id="result-count">—</span> papers</div>
+  <div class="db-stats">
+    <span class="db-stat-pill" id="pill-available">—</span>
+    <span class="db-stat-pill" id="pill-coming">—</span>
+  </div>
+</div>
+
+<div class="agp-grid" id="agp-container"></div>
+
+<footer class="site-footer">AgriDocs &nbsp;·&nbsp; Maharashtra &nbsp;·&nbsp; Built for students 🌾</footer>
+
+<script>
+/* ── CARD REVEAL ── */
+let cardObserver = null;
+function observeCards() {
+  if (cardObserver) cardObserver.disconnect();
+  const cards = [...document.querySelectorAll('.agp-card:not(.cv)')];
+  if (!cards.length) return;
+  let batchIdx = 0;
+  cardObserver = new IntersectionObserver(entries => {
+    entries.forEach(e => {
+      if (!e.isIntersecting) return;
+      const delay = batchIdx * 38;
+      batchIdx++;
+      setTimeout(() => e.target.classList.add('cv'), delay);
+      cardObserver.unobserve(e.target);
+    });
+  }, { threshold: 0.06, rootMargin: '0px 0px -20px 0px' });
+  cards.forEach(c => cardObserver.observe(c));
+}
+
+/* ── RIPPLE ── */
+const container = document.getElementById('agp-container');
+function spawnRipple(card, clientX, clientY) {
+  const r = card.getBoundingClientRect();
+  const x = clientX - r.left, y = clientY - r.top;
+  const size = Math.max(r.width, r.height);
+  const el = document.createElement('span');
+  el.className = 'ripple';
+  el.style.cssText = `width:${size}px;height:${size}px;left:${x - size / 2}px;top:${y - size / 2}px`;
+  card.appendChild(el);
+  el.addEventListener('animationend', () => el.remove(), { once: true });
+}
+container.addEventListener('mousedown', e => {
+  const card = e.target.closest('.agp-card');
+  if (card) spawnRipple(card, e.clientX, e.clientY);
+});
+container.addEventListener('touchstart', e => {
+  const card = e.target.closest('.agp-card');
+  if (card && e.touches[0]) spawnRipple(card, e.touches[0].clientX, e.touches[0].clientY);
+}, { passive: true });
+
+/* ── COUNTER ── */
+function countUp(el, target) {
+  const dur = 800, t0 = performance.now();
+  const from = parseInt(el.textContent) || 0;
+  (function tick(now) {
+    const p = Math.min((now - t0) / dur, 1);
+    const ease = 1 - Math.pow(1 - p, 3);
+    el.textContent = Math.round(from + (target - from) * ease);
+    if (p < 1) requestAnimationFrame(tick);
+  })(t0);
+}
+
+/* ── DATA ── */
+let agpData = [];
+
+async function loadPYQs() {
+  try {
+    const res = await fetch('https://raw.githubusercontent.com/chauhanvijaybhausaheb-eng/Pyq-database-/refs/heads/main/pyq.json');
+    const data = await res.json();
+    agpData = data.papers || [];
+    populateYearDropdown(agpData);
+    updateHeroStats(agpData);
+    renderCards(agpData);
+  } catch (err) {
+    console.error('PYQ load error:', err);
+    container.innerHTML = `<div class="empty-state"><div class="empty-icon">📂</div><p>Could not load papers. Please try again later.</p></div>`;
+  }
+}
+
+/* ── POPULATE YEAR DROPDOWN ── */
+function populateYearDropdown(papers) {
+  const years = [...new Set(papers.map(p => p.year).filter(Boolean))].sort().reverse();
+  const sel = document.getElementById('agp-year');
+  sel.innerHTML = '<option value="">All Years</option>';
+  years.forEach(y => {
+    const opt = document.createElement('option');
+    opt.value = y;
+    opt.textContent = y;
+    sel.appendChild(opt);
+  });
+}
+
+/* ── STATS ── */
+function updateHeroStats(papers) {
+  const total = papers.length;
+  const avail = papers.filter(p => p.pdf_url && p.pdf_url.trim() !== '').length;
+  const branches = new Set(papers.flatMap(p => Array.isArray(p.course) ? p.course : [p.course])).size;
+  const sems = new Set(papers.map(p => String(p.semester))).size;
+
+  countUp(document.getElementById('stat-papers'), total);
+  countUp(document.getElementById('stat-available'), avail);
+  countUp(document.getElementById('stat-branches'), branches);
+  countUp(document.getElementById('stat-semesters'), sems);
+
+  document.getElementById('pill-available').textContent = avail + ' Available';
+  document.getElementById('pill-coming').textContent = (total - avail) + ' Coming Soon';
+}
+
+/* ── COURSE LABEL MAP ── */
+const COURSE_LABELS = {
+  bsc_hons_agri:   'B.Sc (Hons) Agriculture',
+  bsc_hons_abm:    'B.Sc (Hons) ABM',
+  bsc_hons_horti:  'B.Sc (Hons) Horticulture',
+  btech_agri_engg: 'B.Tech Agril. Engineering',
+  btech_biotech:   'B.Tech Biotechnology',
+  btech_food:      'B.Tech Food Technology',
+};
+function courseLabel(code) {
+  return COURSE_LABELS[code] || code;
+}
+
+/* ── RENDER ── */
+function renderCards(papers) {
+  const rc = document.getElementById('result-count');
+  if (!papers.length) {
+    rc.textContent = '0';
+    container.innerHTML = `<div class="empty-state"><div class="empty-icon">🔍</div><p>No papers match your filters. Try adjusting your search.</p></div>`;
+    return;
+  }
+  rc.textContent = papers.length;
+  container.innerHTML = papers.map(p => {
+    const hasLink = p.pdf_url && p.pdf_url.trim() !== '';
+    const rawCourses = Array.isArray(p.course) ? p.course : [p.course || ''];
+    const courses = rawCourses.map(courseLabel).join(', ') || '—';
+    const examYear = p.year || '—';
+    return `
+      <div class="agp-card">
+        <div class="card-top-bar"></div>
+        <h3>${p.title || 'Untitled Paper'}</h3>
+        <div class="agp-card-info">${courses}</div>
+        <div class="agp-footer">
+          <div class="agp-footer-left">
+            <span class="sem-badge">Sem ${p.semester || '?'}</span>
+            <span class="year-badge"><span class="year-dot"></span>${examYear}</span>
+          </div>
+          ${hasLink
+            ? `<a class="dl-btn" href="${p.pdf_url}" target="_blank" rel="noopener">⬇ Download</a>`
+            : `<span class="coming-soon"><span class="cs-dot"></span>Coming Soon</span>`
+          }
+        </div>
+      </div>`;
+  }).join('');
+  observeCards();
+}
+
+/* ── FILTER ── */
+function agpApply() {
+  const q    = document.getElementById('agp-search').value.trim().toLowerCase();
+  const yr   = document.getElementById('agp-year').value;
+  const course = document.getElementById('agp-course').value;
+  const sem  = document.getElementById('agp-semester').value;
+
+  const filtered = agpData.filter(p => {
+    const courses = Array.isArray(p.course) ? p.course : [p.course || ''];
+    if (q && !(p.title || '').toLowerCase().includes(q)) return false;
+    if (yr && (p.year || '') !== yr) return false;
+    if (course && !courses.includes(course)) return false;
+    if (sem && String(p.semester) !== sem) return false;
+    return true;
+  });
+  renderCards(filtered);
+}
+
+function agpReset() {
+  document.getElementById('agp-search').value = '';
+  document.getElementById('agp-year').value = '';
+  document.getElementById('agp-course').value = '';
+  document.getElementById('agp-semester').value = '';
+  renderCards(agpData);
+}
+
+/* ── INIT ── */
+loadPYQs();
+</script>
+</body>
+</html>
