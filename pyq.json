@@ -420,16 +420,6 @@
       "course_name": "B.Tech Agril. Engineering",
       "semester": 2,
       "pdf_url": ""
-    },
-    {
-      "title": "Plant Physiology",
-      "university": "mpkv",
-      "year": "2026-27",
-      "course": [
-        "btech_biotech"
-      ],
-      "semester": 3,
-      "pdf_url": ""
     }
   ]
 }
